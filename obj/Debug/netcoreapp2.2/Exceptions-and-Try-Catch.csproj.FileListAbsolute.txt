@@ -1,0 +1,11 @@
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/bin/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.deps.json
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/bin/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.runtimeconfig.json
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/bin/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.runtimeconfig.dev.json
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/bin/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.dll
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/bin/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.pdb
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.csprojAssemblyReference.cache
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.csproj.CoreCompileInputs.cache
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.AssemblyInfoInputs.cache
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.AssemblyInfo.cs
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.dll
+/Users/deeppatel/workspace/Exceptions-and-Try-Catch/obj/Debug/netcoreapp2.2/Exceptions-and-Try-Catch.pdb
